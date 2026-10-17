@@ -3,7 +3,7 @@
 Saya Louis Marcel Wendy Adrianto dengan NIM 2509068 mengerjakan Tugas Praktikum 5 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## DESIGN 
-Program bertujuan untuk mengelola dan memodifikasi data dalam sebuah database pada mysql. Program memiliki beberapa fitur, yaitu : 
+(Menggunakan **NETBEANS**) Program bertujuan untuk mengelola dan memodifikasi data dalam sebuah database pada mysql. Program memiliki beberapa fitur, yaitu : 
 ### INSERT
 Digunakan untuk menambahkan data baru pada database. Data terdiri dari ID, nama, tahun lahir, email, dan kategori kerja. Insert data memiliki ketentuan yaitu 
 * Tahun lahir harus terdiri dari angka saja
