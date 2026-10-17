@@ -26,10 +26,10 @@ Kelas tersebut memiliki setter dan getter yang digunakan pada program.
 Alur program sederhana. Diawal, akan ada tampilan menyerupai form, dimana pengguna dapat memasukan data berupa ID, nama, tanggal lahir, email, dan kategori yang terdiri dari 4 options. Dibawah, ada tabel yang berisi seluruh data pada database mysql, yang dimana jika ditekan, pengguna dapat update maupun delete suatu data dalam databse tersebut. 
 
 ## DOKUMENTASI
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/Dokumentasi/SS1.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/Dokumentasi/SS2.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/Dokumentasi/SS3.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/Dokumentasi/SS4.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/Dokumentasi/SS5.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/Dokumentasi/SS6.png" />
-<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP3DPBO2526C1/blob/main/Dokumentasi/SS7.png" />
+<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP5DPBO2526C1/blob/main/Dokumentasi/SS1.png" />
+<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP5DPBO2526C1/blob/main/Dokumentasi/SS2.png" />
+<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP5DPBO2526C1/blob/main/Dokumentasi/SS3.png" />
+<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP5DPBO2526C1/blob/main/Dokumentasi/SS4.png" />
+<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP5DPBO2526C1/blob/main/Dokumentasi/SS5.png" />
+<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP5DPBO2526C1/blob/main/Dokumentasi/SS6.png" />
+<img width="500" height="700" alt="image" src="https://github.com/VenerableEmperor/TP5DPBO2526C1/blob/main/Dokumentasi/SS7.png" />
